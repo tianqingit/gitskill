@@ -8,3 +8,4 @@ add after b1
 add after track b1
 add line b2
 add after track b2
+git add
